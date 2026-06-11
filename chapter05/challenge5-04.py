@@ -5,5 +5,5 @@ if a in yuusuke:
     b = yuusuke[a]
     print(b)
 else:
-    print("見つかりません")
+    print("言えません")
 
