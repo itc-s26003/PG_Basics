@@ -1,0 +1,5 @@
+where = input("どこで？:")
+who = input("だれが？:")
+when = input("いつ？:")
+a = "{}で、{}が、{}".format(where,who,when).split("、")
+print(a)
